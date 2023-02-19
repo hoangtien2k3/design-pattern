@@ -1,8 +1,5 @@
-package Creational_Pattern.Singleton.crs;
+package Creational_Pattern.Singleton.test;
 
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.PreparedStatement;
@@ -21,16 +18,14 @@ class JDBCSingleton {
 
     //Now we are providing gloabal point of access.
     public static JDBCSingleton getInstance() {
-        if (jdbc==null)
-        {
+        if (jdbc==null) {
             jdbc=new  JDBCSingleton();
         }
         return jdbc;
     }
 
     // to get the connection from methods like insert, view etc.
-    private static Connection getConnection()throws ClassNotFoundException, SQLException
-    {
+    private static Connection getConnection() throws ClassNotFoundException, SQLException {
 
         Connection con=null;
         Class.forName("com.mysql.jdbc.Driver");
