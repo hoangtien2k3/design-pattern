@@ -8,8 +8,6 @@ Mẫu thiết kế Factory Method hoặc Factory Pattern được sử dụng đ
 
 ![](https://gpcoder.com/wp-content/uploads/2018/09/design-patterns-abstract-factory-diagram.png)
 
-
-
-
-
+Ví dụ: Factory Method
+![factory-method.webp](..%2F..%2F..%2F..%2F..%2F..%2FUsers%2Ftienhoang%2FDownloads%2Ffactory-method.webp)
 
