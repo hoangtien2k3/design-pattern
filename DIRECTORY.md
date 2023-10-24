@@ -22,6 +22,13 @@
       * [GetPlanFactory](https://github.com/hoangtien2k3qx1/Java-Design-Patterns/blob/main/Creational_Pattern/Factory_Method/crs/GetPlanFactory.java)
       * [InstitutionalPlan](https://github.com/hoangtien2k3qx1/Java-Design-Patterns/blob/main/Creational_Pattern/Factory_Method/crs/InstitutionalPlan.java)
       * [Plan](https://github.com/hoangtien2k3qx1/Java-Design-Patterns/blob/main/Creational_Pattern/Factory_Method/crs/Plan.java)
+    * Java Factory Method
+      * [Client](https://github.com/hoangtien2k3qx1/Java-Design-Patterns/blob/main/Creational_Pattern/Factory_Method/Java_Factory_Method/Client.java)
+      * [Ship](https://github.com/hoangtien2k3qx1/Java-Design-Patterns/blob/main/Creational_Pattern/Factory_Method/Java_Factory_Method/Ship.java)
+      * [Transport](https://github.com/hoangtien2k3qx1/Java-Design-Patterns/blob/main/Creational_Pattern/Factory_Method/Java_Factory_Method/Transport.java)
+      * [TransportFactory](https://github.com/hoangtien2k3qx1/Java-Design-Patterns/blob/main/Creational_Pattern/Factory_Method/Java_Factory_Method/TransportFactory.java)
+      * [TransportType](https://github.com/hoangtien2k3qx1/Java-Design-Patterns/blob/main/Creational_Pattern/Factory_Method/Java_Factory_Method/TransportType.java)
+      * [Truck](https://github.com/hoangtien2k3qx1/Java-Design-Patterns/blob/main/Creational_Pattern/Factory_Method/Java_Factory_Method/Truck.java)
     * test
       * [ApplePhone](https://github.com/hoangtien2k3qx1/Java-Design-Patterns/blob/main/Creational_Pattern/Factory_Method/test/ApplePhone.java)
       * [NokiaPhone](https://github.com/hoangtien2k3qx1/Java-Design-Patterns/blob/main/Creational_Pattern/Factory_Method/test/NokiaPhone.java)
