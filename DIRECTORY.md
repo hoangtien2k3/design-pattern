@@ -44,6 +44,32 @@
       * [ClientTest](https://github.com/hoangtien2k3qx1/Java-Design-Patterns/blob/main/Creational_Pattern/Factory_Method/test2/ClientTest.java)
       * [HardCandy](https://github.com/hoangtien2k3qx1/Java-Design-Patterns/blob/main/Creational_Pattern/Factory_Method/test2/HardCandy.java)
       * [MintyCandy](https://github.com/hoangtien2k3qx1/Java-Design-Patterns/blob/main/Creational_Pattern/Factory_Method/test2/MintyCandy.java)
+  * Factory Pattern
+    * Factory Pattern
+      * ChairShape
+        * [ChairArtDeco](https://github.com/hoangtien2k3qx1/Java-Design-Patterns/blob/main/Creational_Pattern/Factory_Pattern/Factory_Pattern/ChairShape/ChairArtDeco.java)
+        * [ChairModern](https://github.com/hoangtien2k3qx1/Java-Design-Patterns/blob/main/Creational_Pattern/Factory_Pattern/Factory_Pattern/ChairShape/ChairModern.java)
+        * [ChairVictorian](https://github.com/hoangtien2k3qx1/Java-Design-Patterns/blob/main/Creational_Pattern/Factory_Pattern/Factory_Pattern/ChairShape/ChairVictorian.java)
+      * [Client](https://github.com/hoangtien2k3qx1/Java-Design-Patterns/blob/main/Creational_Pattern/Factory_Pattern/Factory_Pattern/Client.java)
+      * Factory
+        * [ArtDecoFactory](https://github.com/hoangtien2k3qx1/Java-Design-Patterns/blob/main/Creational_Pattern/Factory_Pattern/Factory_Pattern/Factory/ArtDecoFactory.java)
+        * [ModernFactory](https://github.com/hoangtien2k3qx1/Java-Design-Patterns/blob/main/Creational_Pattern/Factory_Pattern/Factory_Pattern/Factory/ModernFactory.java)
+        * [VictorianFactory](https://github.com/hoangtien2k3qx1/Java-Design-Patterns/blob/main/Creational_Pattern/Factory_Pattern/Factory_Pattern/Factory/VictorianFactory.java)
+      * [FurnitureAbstractFactory](https://github.com/hoangtien2k3qx1/Java-Design-Patterns/blob/main/Creational_Pattern/Factory_Pattern/Factory_Pattern/FurnitureAbstractFactory.java)
+      * [FurnitureFactory](https://github.com/hoangtien2k3qx1/Java-Design-Patterns/blob/main/Creational_Pattern/Factory_Pattern/Factory_Pattern/FurnitureFactory.java)
+      * IteamInterface
+        * [Chair](https://github.com/hoangtien2k3qx1/Java-Design-Patterns/blob/main/Creational_Pattern/Factory_Pattern/Factory_Pattern/IteamInterface/Chair.java)
+        * [Sofa](https://github.com/hoangtien2k3qx1/Java-Design-Patterns/blob/main/Creational_Pattern/Factory_Pattern/Factory_Pattern/IteamInterface/Sofa.java)
+        * [Table](https://github.com/hoangtien2k3qx1/Java-Design-Patterns/blob/main/Creational_Pattern/Factory_Pattern/Factory_Pattern/IteamInterface/Table.java)
+      * SofaShape
+        * [SofaArtDeco](https://github.com/hoangtien2k3qx1/Java-Design-Patterns/blob/main/Creational_Pattern/Factory_Pattern/Factory_Pattern/SofaShape/SofaArtDeco.java)
+        * [SofaModern](https://github.com/hoangtien2k3qx1/Java-Design-Patterns/blob/main/Creational_Pattern/Factory_Pattern/Factory_Pattern/SofaShape/SofaModern.java)
+        * [SofaVictorian](https://github.com/hoangtien2k3qx1/Java-Design-Patterns/blob/main/Creational_Pattern/Factory_Pattern/Factory_Pattern/SofaShape/SofaVictorian.java)
+      * [StyleType](https://github.com/hoangtien2k3qx1/Java-Design-Patterns/blob/main/Creational_Pattern/Factory_Pattern/Factory_Pattern/StyleType.java)
+      * TableShape
+        * [TableArtDeco](https://github.com/hoangtien2k3qx1/Java-Design-Patterns/blob/main/Creational_Pattern/Factory_Pattern/Factory_Pattern/TableShape/TableArtDeco.java)
+        * [TableModern](https://github.com/hoangtien2k3qx1/Java-Design-Patterns/blob/main/Creational_Pattern/Factory_Pattern/Factory_Pattern/TableShape/TableModern.java)
+        * [TableVictorian](https://github.com/hoangtien2k3qx1/Java-Design-Patterns/blob/main/Creational_Pattern/Factory_Pattern/Factory_Pattern/TableShape/TableVictorian.java)
   * Singleton
     * crs
       * EagerInitialization
