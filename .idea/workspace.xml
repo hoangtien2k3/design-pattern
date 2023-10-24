@@ -5,7 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d96f85ff-8bf5-44e0-b53b-9a8ea5a321a2" name="Changes" comment="">
+HEAD
       <change afterPath="$PROJECT_DIR$/Creational_Pattern/Factory_Pattern/README.md" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Creational_Pattern/Factory_Method/Java_Factory_Method/Transport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Creational_Pattern/Factory_Method/Java_Factory_Method/TransportFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Creational_Pattern/Factory_Method/Java_Factory_Method/TransportType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Creational_Pattern/Factory_Method/Java_Factory_Method/Truck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Creational_Pattern/Factory_Method/Java_Factory_Method/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Creational_Pattern/Factory_Method/Kotlin_Factory_Method/Ship.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Creational_Pattern/Factory_Method/Kotlin_Factory_Method/Transport.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Creational_Pattern/Factory_Method/Kotlin_Factory_Method/TransportFactory.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Creational_Pattern/Factory_Method/Kotlin_Factory_Method/TransportType.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Creational_Pattern/Factory_Method/Kotlin_Factory_Method/Truck.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Creational_Pattern/Factory_Method/Kotlin_Factory_Method/main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java-Design-Patterns.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Java-Design-Patterns.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+>>>>>>> origin/main
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

@@ -1,0 +1,13 @@
+
+## [Bài toán đặt ra]():
+- Hãy tưởng tượng rằng bạn bán đồ nội thất. Cửa hàng của bạn bao gồm các mặt hàng sau: Chair + Sofa + Table.
+
+- Mỗi mặt hàng trên có 3 kiểu dáng: Art Deco , Vitorian, Modern
+- Công ty đã có quy trình code quản lý để sản xuất Chair, bây giờ muốn thêm Sofa + Table vào.
+
+
+## Trong bài toán chúng ta xác định được 3 Object:
+- Chair, Sofa, Table
+- Một Object lại có 3 kiểu thiết kế khác nhau --> Sẽ có 3 Factory để mỗi Factory tạo ra 3 loại Object. VD: ArtDecoFactory sẽ tạo ra: ChairArtDeco, SofaArtDeco, TableArtDeco và tương tự như vậy với VictorianFactory và ModernFactory
+- Theo như Abstract Factory Pattern thì nó sẽ tạo ra 1 interface hoặc một abstract class để chứa những phương thức tạo lập những đối tượng chung. Ngoài ra Abstract factory còn được hiểu như là một nhà máy lớn chứa nhiều nhà máy nhỏ, trong các nhà máy đó có những xưởng sản xuất, các xưởng đó tạo ra những sản phẩm khác nhau.
+- Tương tự như Factory Method bên trên
