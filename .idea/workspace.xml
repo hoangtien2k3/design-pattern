@@ -5,28 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d96f85ff-8bf5-44e0-b53b-9a8ea5a321a2" name="Changes" comment="update">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Creational_Pattern/Factory_Pattern/Factory_Pattern/ChairShape/ChairArtDeco.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Creational_Pattern/Factory_Pattern/Factory_Pattern/ChairShape/ChairModern.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Creational_Pattern/Factory_Pattern/Factory_Pattern/ChairShape/ChairVictorian.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Creational_Pattern/Factory_Pattern/Factory_Pattern/Client.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Creational_Pattern/Factory_Pattern/Factory_Pattern/Factory/ArtDecoFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Creational_Pattern/Factory_Pattern/Factory_Pattern/Factory/ModernFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Creational_Pattern/Factory_Pattern/Factory_Pattern/Factory/VictorianFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Creational_Pattern/Factory_Pattern/Factory_Pattern/FurnitureAbstractFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Creational_Pattern/Factory_Pattern/Factory_Pattern/FurnitureFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Creational_Pattern/Factory_Pattern/Factory_Pattern/IteamInterface/Chair.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Creational_Pattern/Factory_Pattern/Factory_Pattern/IteamInterface/Sofa.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Creational_Pattern/Factory_Pattern/Factory_Pattern/IteamInterface/Table.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Creational_Pattern/Factory_Pattern/Factory_Pattern/SofaShape/SofaArtDeco.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Creational_Pattern/Factory_Pattern/Factory_Pattern/SofaShape/SofaModern.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Creational_Pattern/Factory_Pattern/Factory_Pattern/SofaShape/SofaVictorian.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Creational_Pattern/Factory_Pattern/Factory_Pattern/StyleType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Creational_Pattern/Factory_Pattern/Factory_Pattern/TableShape/TableArtDeco.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Creational_Pattern/Factory_Pattern/Factory_Pattern/TableShape/TableModern.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Creational_Pattern/Factory_Pattern/Factory_Pattern/TableShape/TableVictorian.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Creational_Pattern/Factory_Pattern/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Creational_Pattern/Factory_Pattern/information.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Creational_Pattern/Factory_Method/crs/CommercialPlan.java" beforeDir="false" afterPath="$PROJECT_DIR$/Creational_Pattern/Factory_Method/crs/CommercialPlan.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
