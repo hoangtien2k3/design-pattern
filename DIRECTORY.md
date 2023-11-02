@@ -50,6 +50,11 @@
       * [ClientTest](https://github.com/hoangtien2k3qx1/Java-Design-Patterns/blob/main/Creational_Pattern/Factory_Method/test2/ClientTest.java)
       * [HardCandy](https://github.com/hoangtien2k3qx1/Java-Design-Patterns/blob/main/Creational_Pattern/Factory_Method/test2/HardCandy.java)
       * [MintyCandy](https://github.com/hoangtien2k3qx1/Java-Design-Patterns/blob/main/Creational_Pattern/Factory_Method/test2/MintyCandy.java)
+  * Prototype
+    * [Animal](https://github.com/hoangtien2k3qx1/Java-Design-Patterns/blob/main/Creational_Pattern/Prototype/Animal.java)
+    * [Bird](https://github.com/hoangtien2k3qx1/Java-Design-Patterns/blob/main/Creational_Pattern/Prototype/Bird.java)
+    * [Fish](https://github.com/hoangtien2k3qx1/Java-Design-Patterns/blob/main/Creational_Pattern/Prototype/Fish.java)
+    * [PrototypePattern](https://github.com/hoangtien2k3qx1/Java-Design-Patterns/blob/main/Creational_Pattern/Prototype/PrototypePattern.java)
   * Singleton
     * Eager
       * [Eager](https://github.com/hoangtien2k3qx1/Java-Design-Patterns/blob/main/Creational_Pattern/Singleton/Eager/Eager.java)
