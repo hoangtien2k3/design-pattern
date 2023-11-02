@@ -1,4 +1,4 @@
-package Creational_Pattern.Singleton.crs.LazyInitialization;
+package Creational_Pattern.Singleton.Lazy;
 
 public class LazySingleton1 {
     private static LazySingleton1 instance;

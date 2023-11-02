@@ -1,14 +1,14 @@
-package Creational_Pattern.Singleton.crs.EagerInitialization;
+package Creational_Pattern.Singleton.Eager;
 
-public class EagerInitialization1 {
+public class Eager {
     // Biến instance sẽ lưu trữ một đối tượng của class Singleton.
-    private static EagerInitialization1 instance = new EagerInitialization1();
+    private static Eager instance = new Eager();
 
     // private constructor để ngăn chặn việc tạo đối tượng từ bên ngoài class.
-    private EagerInitialization1() {}
+    private Eager() {}
 
     // phương thức getInstance để lấy ra đối tượng Singleton đã được khởi tạo sẵn.
-    public static EagerInitialization1 getInstance() {
+    public static Eager getInstance() {
         return instance;
     }
 

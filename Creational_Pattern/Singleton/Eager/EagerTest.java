@@ -1,12 +1,12 @@
-package Creational_Pattern.Singleton.crs.EagerInitialization;
+package Creational_Pattern.Singleton.Eager;
 
-public class EagerInitializationTest {
+public class EagerTest {
     public static void main(String[] args) {
-        EagerInitialization1 eager1 = EagerInitialization1.getInstance();
+        Eager eager1 = Eager.getInstance();
         eager1.setName("Tiến");
         System.out.println(eager1.getName());
 
-        EagerInitialization1 eager2 = EagerInitialization1.getInstance();
+        Eager eager2 = Eager.getInstance();
         System.out.println(eager2.getName());
 
         if (eager1 == eager2) {
