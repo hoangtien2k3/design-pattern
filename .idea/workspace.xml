@@ -5,22 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d96f85ff-8bf5-44e0-b53b-9a8ea5a321a2" name="Changes" comment="update">
-      <change beforePath="$PROJECT_DIR$/.github/CODEOWNERS" beforeDir="false" afterPath="$PROJECT_DIR$/.github/CODEOWNERS" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Creational_Pattern/Singleton/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Creational_Pattern/Singleton/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Creational_Pattern/Singleton/crs/EagerInitialization/EagerInitialization1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Creational_Pattern/Singleton/Eager/Eager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Creational_Pattern/Singleton/crs/EagerInitialization/EagerInitializationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Creational_Pattern/Singleton/Eager/EagerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Creational_Pattern/Singleton/crs/LazyInitialization/LazySingleton1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Creational_Pattern/Singleton/Lazy/LazySingleton1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Creational_Pattern/Singleton/crs/LazyInitialization/LazySingleton2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Creational_Pattern/Singleton/Lazy/LazySingleton2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Creational_Pattern/Singleton/crs/LazyInitialization/LazySingletonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Creational_Pattern/Singleton/Lazy/LazySingletonTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Creational_Pattern/Singleton/crs/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Creational_Pattern/Singleton/crs/ThreadSafeSingleton.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Creational_Pattern/Singleton/crs/ThreadSafeSingletonTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Creational_Pattern/Singleton/crs/img.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Creational_Pattern/Singleton/test/JDBCSingleton.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Creational_Pattern/Singleton/test/JDBCSingletonDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/github-contribution-grid-snake.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Creational_Pattern/Factory_Pattern/Factory_Pattern/ChairShape/ChairArtDeco.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Creational_Pattern/Factory_Pattern/Factory_Pattern/ChairShape/ChairModern.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Creational_Pattern/Factory_Pattern/Factory_Pattern/ChairShape/ChairVictorian.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Creational_Pattern/Factory_Pattern/Factory_Pattern/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Creational_Pattern/Factory_Pattern/Factory_Pattern/Factory/ArtDecoFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Creational_Pattern/Factory_Pattern/Factory_Pattern/Factory/ModernFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Creational_Pattern/Factory_Pattern/Factory_Pattern/Factory/VictorianFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Creational_Pattern/Factory_Pattern/Factory_Pattern/FurnitureAbstractFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Creational_Pattern/Factory_Pattern/Factory_Pattern/FurnitureFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Creational_Pattern/Factory_Pattern/Factory_Pattern/IteamInterface/Chair.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Creational_Pattern/Factory_Pattern/Factory_Pattern/IteamInterface/Sofa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Creational_Pattern/Factory_Pattern/Factory_Pattern/IteamInterface/Table.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Creational_Pattern/Factory_Pattern/Factory_Pattern/SofaShape/SofaArtDeco.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Creational_Pattern/Factory_Pattern/Factory_Pattern/SofaShape/SofaModern.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Creational_Pattern/Factory_Pattern/Factory_Pattern/SofaShape/SofaVictorian.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Creational_Pattern/Factory_Pattern/Factory_Pattern/StyleType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Creational_Pattern/Factory_Pattern/Factory_Pattern/TableShape/TableArtDeco.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Creational_Pattern/Factory_Pattern/Factory_Pattern/TableShape/TableModern.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Creational_Pattern/Factory_Pattern/Factory_Pattern/TableShape/TableVictorian.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Creational_Pattern/Factory_Pattern/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Creational_Pattern/Factory_Pattern/information.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
