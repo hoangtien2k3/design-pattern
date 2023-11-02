@@ -71,16 +71,10 @@
         * [TableModern](https://github.com/hoangtien2k3qx1/Java-Design-Patterns/blob/main/Creational_Pattern/Factory_Pattern/Factory_Pattern/TableShape/TableModern.java)
         * [TableVictorian](https://github.com/hoangtien2k3qx1/Java-Design-Patterns/blob/main/Creational_Pattern/Factory_Pattern/Factory_Pattern/TableShape/TableVictorian.java)
   * Singleton
-    * crs
-      * EagerInitialization
-        * [EagerInitialization1](https://github.com/hoangtien2k3qx1/Java-Design-Patterns/blob/main/Creational_Pattern/Singleton/crs/EagerInitialization/EagerInitialization1.java)
-        * [EagerInitializationTest](https://github.com/hoangtien2k3qx1/Java-Design-Patterns/blob/main/Creational_Pattern/Singleton/crs/EagerInitialization/EagerInitializationTest.java)
-      * LazyInitialization
-        * [LazySingleton1](https://github.com/hoangtien2k3qx1/Java-Design-Patterns/blob/main/Creational_Pattern/Singleton/crs/LazyInitialization/LazySingleton1.java)
-        * [LazySingleton2](https://github.com/hoangtien2k3qx1/Java-Design-Patterns/blob/main/Creational_Pattern/Singleton/crs/LazyInitialization/LazySingleton2.java)
-        * [LazySingletonTest](https://github.com/hoangtien2k3qx1/Java-Design-Patterns/blob/main/Creational_Pattern/Singleton/crs/LazyInitialization/LazySingletonTest.java)
-      * [ThreadSafeSingleton](https://github.com/hoangtien2k3qx1/Java-Design-Patterns/blob/main/Creational_Pattern/Singleton/crs/ThreadSafeSingleton.java)
-      * [ThreadSafeSingletonTest](https://github.com/hoangtien2k3qx1/Java-Design-Patterns/blob/main/Creational_Pattern/Singleton/crs/ThreadSafeSingletonTest.java)
-    * test
-      * [JDBCSingleton](https://github.com/hoangtien2k3qx1/Java-Design-Patterns/blob/main/Creational_Pattern/Singleton/test/JDBCSingleton.java)
-      * [JDBCSingletonDemo](https://github.com/hoangtien2k3qx1/Java-Design-Patterns/blob/main/Creational_Pattern/Singleton/test/JDBCSingletonDemo.java)
+    * Eager
+      * [Eager](https://github.com/hoangtien2k3qx1/Java-Design-Patterns/blob/main/Creational_Pattern/Singleton/Eager/Eager.java)
+      * [EagerTest](https://github.com/hoangtien2k3qx1/Java-Design-Patterns/blob/main/Creational_Pattern/Singleton/Eager/EagerTest.java)
+    * Lazy
+      * [LazySingleton1](https://github.com/hoangtien2k3qx1/Java-Design-Patterns/blob/main/Creational_Pattern/Singleton/Lazy/LazySingleton1.java)
+      * [LazySingleton2](https://github.com/hoangtien2k3qx1/Java-Design-Patterns/blob/main/Creational_Pattern/Singleton/Lazy/LazySingleton2.java)
+      * [LazySingletonTest](https://github.com/hoangtien2k3qx1/Java-Design-Patterns/blob/main/Creational_Pattern/Singleton/Lazy/LazySingletonTest.java)
