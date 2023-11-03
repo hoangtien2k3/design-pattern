@@ -10,31 +10,5 @@ Một số lợi ích của việc sử dụng Abstract Factory Pattern trong Ja
 - Giúp tạo ra mã nguồn dễ đọc và hiểu hơn.
 - Giúp tăng tính linh hoạt và khả năng mở rộng của chương trình.
 
-
-
 ![Screenshot 2023-02-16 153419](https://user-images.githubusercontent.com/122768076/219311124-ffd2a92f-596b-46df-b68b-bed2bd5a2bbb.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
