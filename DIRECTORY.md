@@ -54,6 +54,10 @@
       * [RunDeMo](https://github.com/hoangtien2k3qx1/design-pattern/blob/main/Creational/Factory_Method/src/RunDeMo.java)
       * [SamsungPhone](https://github.com/hoangtien2k3qx1/design-pattern/blob/main/Creational/Factory_Method/src/SamsungPhone.java)
   * Prototype
+    * java
+      * [MainClone](https://github.com/hoangtien2k3qx1/design-pattern/blob/main/Creational/Prototype/java/MainClone.java)
+      * [User](https://github.com/hoangtien2k3qx1/design-pattern/blob/main/Creational/Prototype/java/User.java)
+    * src
       * [Animal](https://github.com/hoangtien2k3qx1/design-pattern/blob/main/Creational/Prototype/src/Animal.java)
       * [Bird](https://github.com/hoangtien2k3qx1/design-pattern/blob/main/Creational/Prototype/src/Bird.java)
       * [Fish](https://github.com/hoangtien2k3qx1/design-pattern/blob/main/Creational/Prototype/src/Fish.java)
