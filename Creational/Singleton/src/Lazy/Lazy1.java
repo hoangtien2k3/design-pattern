@@ -1,8 +1,8 @@
 package Creational.Singleton.src.Lazy;
 
-public class LazySingleton1 {
-    private static LazySingleton1 instance;
-    private LazySingleton1() {
+public class Lazy1 {
+    private static Lazy1 instance;
+    private Lazy1() {
     }
 
     /*
@@ -11,9 +11,9 @@ public class LazySingleton1 {
     *   trả về đối tượng mới.
     *   Do đó, singleton1 != singleton2, nếu chúng được tạo ra từ hai lần gọi phương thức getInstance() khác nhau
     * */
-    public static LazySingleton1 getInstance() {
+    public static Lazy1 getInstance() {
         if (instance == null) {
-            instance = new LazySingleton1();
+            instance = new Lazy1();
         } else {
             instance = null;
         }

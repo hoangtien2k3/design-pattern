@@ -1,6 +1,6 @@
 package Creational.Singleton.src.Eager;
 
-public class EagerTest {
+public class EagerSingleton {
     public static void main(String[] args) {
         Eager eager1 = Eager.getInstance();
         eager1.setName("Tiến");
