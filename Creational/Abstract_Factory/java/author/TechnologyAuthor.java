@@ -1,6 +1,4 @@
-package Creational.Abstract_Factory.source.author;
-
-import Creational.Abstract_Factory.source.author.Author;
+package Creational.Abstract_Factory.java.author;
 
 public class TechnologyAuthor extends Author {
 

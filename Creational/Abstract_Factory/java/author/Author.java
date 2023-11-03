@@ -1,4 +1,4 @@
-package Creational.Abstract_Factory.source.author;
+package Creational.Abstract_Factory.java.author;
 
 public abstract class Author {
     private String name;

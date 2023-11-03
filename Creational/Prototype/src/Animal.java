@@ -1,6 +1,6 @@
 package Creational.Prototype.src;
 
-public class Animal implements Cloneable{
+public class Animal implements Cloneable {
     private String name;
     private int age;
 

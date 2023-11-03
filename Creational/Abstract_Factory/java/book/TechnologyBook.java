@@ -1,6 +1,4 @@
-package Creational.Abstract_Factory.source.book;
-
-import Creational.Abstract_Factory.source.book.Book;
+package Creational.Abstract_Factory.java.book;
 
 public class TechnologyBook extends Book {
     @Override

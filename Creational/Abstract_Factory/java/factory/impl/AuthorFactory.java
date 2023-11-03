@@ -1,9 +1,9 @@
-package Creational.Abstract_Factory.source.factory.impl;
+package Creational.Abstract_Factory.java.factory.impl;
 
-import Creational.Abstract_Factory.source.author.TechnologyAuthor;
-import Creational.Abstract_Factory.source.author.Author;
-import Creational.Abstract_Factory.source.author.HistoryAuthor;
-import Creational.Abstract_Factory.source.factory.AbstractFactory;
+import Creational.Abstract_Factory.java.author.TechnologyAuthor;
+import Creational.Abstract_Factory.java.author.Author;
+import Creational.Abstract_Factory.java.author.HistoryAuthor;
+import Creational.Abstract_Factory.java.factory.AbstractFactory;
 
 public class AuthorFactory implements AbstractFactory {
     @Override

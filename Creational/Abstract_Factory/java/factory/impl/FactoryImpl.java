@@ -1,9 +1,7 @@
-package Creational.Abstract_Factory.source.factory.impl;
+package Creational.Abstract_Factory.java.factory.impl;
 
-import Creational.Abstract_Factory.source.book.Book;
-import Creational.Abstract_Factory.source.factory.AbstractFactory;
-import Creational.Abstract_Factory.source.factory.impl.AuthorFactory;
-import Creational.Abstract_Factory.source.factory.impl.BookFactory;
+import Creational.Abstract_Factory.java.book.Book;
+import Creational.Abstract_Factory.java.factory.AbstractFactory;
 
 public class FactoryImpl implements AbstractFactory {
 

@@ -1,11 +1,11 @@
-package Creational.Abstract_Factory.source;
+package Creational.Abstract_Factory.java;
 
-import Creational.Abstract_Factory.source.author.Author;
-import Creational.Abstract_Factory.source.author.TechnologyAuthor;
-import Creational.Abstract_Factory.source.book.Book;
-import Creational.Abstract_Factory.source.book.TechnologyBook;
-import Creational.Abstract_Factory.source.factory.AbstractFactory;
-import Creational.Abstract_Factory.source.factory.impl.FactoryImpl;
+import Creational.Abstract_Factory.java.author.Author;
+import Creational.Abstract_Factory.java.author.TechnologyAuthor;
+import Creational.Abstract_Factory.java.book.Book;
+import Creational.Abstract_Factory.java.book.TechnologyBook;
+import Creational.Abstract_Factory.java.factory.AbstractFactory;
+import Creational.Abstract_Factory.java.factory.impl.FactoryImpl;
 
 public class Main {
     public static void main(String[] args) {

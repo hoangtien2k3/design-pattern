@@ -12,8 +12,8 @@ public class PrototypePattern {
 
         final Bird cloneBird1 = bird.clone();
 
-        System.out.println(bird.hashCode());
-        System.out.println(cloneBird.hashCode());
+        System.out.println("Hash Code Object Bird: " + bird.hashCode());
+        System.out.println("Hash Code Object Clone Bird: " + cloneBird.hashCode());
 
         System.out.println("Bird: " + bird.getMaxFlyTime() + " -> " + bird.getName() + " -> " + bird.getAge());
         System.out.println("Bird1: " + cloneBird1.getMaxFlyTime() + " -> " + cloneBird1.getName() + " -> " + cloneBird1.getAge());
