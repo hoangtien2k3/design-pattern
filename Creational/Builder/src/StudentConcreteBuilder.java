@@ -1,6 +1,6 @@
 package Creational.Builder.src;
 
-public class StudentConcreteBuilder implements StudentBuilder{
+public class StudentConcreteBuilder implements StudentBuilder {
     private int id;
     private String name;
     private String address;

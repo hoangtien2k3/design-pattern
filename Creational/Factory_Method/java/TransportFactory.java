@@ -1,9 +1,10 @@
 package Creational.Factory_Method.java;
 
-class TransportFactory{
-    private TransportFactory() { }
+class TransportFactory {
+    private TransportFactory() {
+    }
 
-    public static final Transport getTransport(TransportType transportType) {
+    public static Transport getTransport(TransportType transportType) {
 /*        switch (transportType) {
             case TRUCK:
                 return new Truck();

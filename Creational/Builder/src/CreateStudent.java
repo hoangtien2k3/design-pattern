@@ -5,7 +5,7 @@ public class CreateStudent {
         Student student = new StudentConcreteBuilder()
                 .setId(1)
                 .setName("hoangtien2k3")
-                .setAddress("thanh hoa")
+                .setAddress("Thanh Hoa")
                 .build();
 
         System.out.println(student);
