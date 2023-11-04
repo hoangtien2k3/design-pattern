@@ -5,15 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="36a3c2bd-7b59-42ab-8ff7-8b0522395a40" name="Changes" comment="prototype">
-      <change afterPath="$PROJECT_DIR$/Behavioral/Observer/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Behavioral/Observer/Observer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Behavioral/Observer/Subject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Behavioral/Observer/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Behavioral/Observer/java/AccountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Behavioral/Observer/java/Logger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Behavioral/Observer/java/LoginStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Behavioral/Observer/java/Mailer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Behavioral/Observer/java/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Behavioral/Observer/java/ObserverPatternExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Behavioral/Observer/java/Protector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Behavioral/Observer/java/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Behavioral/Observer/java/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Creational/Builder/src/CreateStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/Creational/Builder/src/CreateStudent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Creational/Builder/src/StudentConcreteBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/Creational/Builder/src/StudentConcreteBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Creational/Factory_Method/java/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/Creational/Factory_Method/java/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Creational/Factory_Method/java/TransportFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/Creational/Factory_Method/java/TransportFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Behavioral/Observer/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Behavioral/Observer/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Behavioral/Observer/Observer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Behavioral/Observer/src/Observer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Behavioral/Observer/Subject.java" beforeDir="false" afterPath="$PROJECT_DIR$/Behavioral/Observer/src/Subject.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +28,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -60,26 +65,13 @@
       <recent name="$PROJECT_DIR$/Behavioral/Observer" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Behavioral.Observer.Main">
-    <configuration name="Behavioral.Observer.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Behavioral.Observer.Main" />
+  <component name="RunManager" selected="Application.ObserverPatternExample">
+    <configuration name="Behavioral.Observer.src.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Behavioral.Observer.src.Main" />
       <module name="design-pattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Behavioral.Observer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DoubleCheckMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Creational.Singleton.src.DoubleCheckLockingSingleton.DoubleCheckMain" />
-      <module name="design-pattern" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Creational.Singleton.src.DoubleCheckLockingSingleton.*" />
+          <option name="PATTERN" value="Behavioral.Observer.src.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,6 +105,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ObserverPatternExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Behavioral.Observer.java.ObserverPatternExample" />
+      <module name="design-pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Behavioral.Observer.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PrototypePattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Creational.Prototype.src.PrototypePattern" />
       <module name="design-pattern" />
@@ -128,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Behavioral.Observer.Main" />
+        <item itemvalue="Application.ObserverPatternExample" />
+        <item itemvalue="Application.Behavioral.Observer.src.Main" />
         <item itemvalue="Application.MainClone" />
         <item itemvalue="Application.PrototypePattern" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.DoubleCheckMain" />
       </list>
     </recent_temporary>
   </component>
@@ -168,5 +173,39 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="prototype" />
     <option name="LAST_COMMIT_MESSAGE" value="prototype" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Behavioral/Observer/java/ObserverPatternExample.java</url>
+          <line>3</line>
+          <properties class="Behavioral.Observer.java.ObserverPatternExample" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Behavioral/Observer/java/ObserverPatternExample.java</url>
+          <line>13</line>
+          <properties class="Behavioral.Observer.java.ObserverPatternExample" method="createAccount">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Behavioral/Observer/java/ObserverPatternExample.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Behavioral/Observer/java/ObserverPatternExample.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
