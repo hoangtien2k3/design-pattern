@@ -1,4 +1,10 @@
 
+## Behavioral
+  * Observer
+    * [Main](https://github.com/hoangtien2k3qx1/design-pattern/blob/main/Behavioral/Observer/Main.java)
+    * [Observer](https://github.com/hoangtien2k3qx1/design-pattern/blob/main/Behavioral/Observer/Observer.java)
+    * [Subject](https://github.com/hoangtien2k3qx1/design-pattern/blob/main/Behavioral/Observer/Subject.java)
+
 ## Creational
   * Abstract Factory
     * crs
