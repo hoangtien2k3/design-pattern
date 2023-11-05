@@ -5,19 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="36a3c2bd-7b59-42ab-8ff7-8b0522395a40" name="Changes" comment="prototype">
-      <change afterPath="$PROJECT_DIR$/Behavioral/Observer/java/AccountService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Behavioral/Observer/java/Logger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Behavioral/Observer/java/LoginStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Behavioral/Observer/java/Mailer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Behavioral/Observer/java/Observer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Behavioral/Observer/java/ObserverPatternExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Behavioral/Observer/java/Protector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Behavioral/Observer/java/Subject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Behavioral/Observer/java/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Behavioral/Observer/java/img.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Behavioral/Observer/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Behavioral/Observer/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Behavioral/Observer/Observer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Behavioral/Observer/src/Observer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Behavioral/Observer/Subject.java" beforeDir="false" afterPath="$PROJECT_DIR$/Behavioral/Observer/src/Subject.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -195,6 +185,60 @@
           </properties>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Behavioral/Observer/java/AccountService.java</url>
+          <line>38</line>
+          <properties class="Behavioral.Observer.java.AccountService" method="login">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Behavioral/Observer/java/AccountService.java</url>
+          <line>32</line>
+          <properties class="Behavioral.Observer.java.AccountService" method="changeStatus">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Behavioral/Observer/java/Logger.java</url>
+          <line>4</line>
+          <properties class="Behavioral.Observer.java.Logger" method="update">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Behavioral/Observer/java/Mailer.java</url>
+          <line>4</line>
+          <properties class="Behavioral.Observer.java.Mailer" method="update">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Behavioral/Observer/java/Protector.java</url>
+          <line>4</line>
+          <properties class="Behavioral.Observer.java.Protector" method="update">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Behavioral/Observer/java/AccountService.java</url>
+          <line>26</line>
+          <properties class="Behavioral.Observer.java.AccountService" method="notifyAllObserver">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/Behavioral/Observer/java/ObserverPatternExample.java</url>
           <line>10</line>
@@ -204,6 +248,21 @@
           <url>file://$PROJECT_DIR$/Behavioral/Observer/java/ObserverPatternExample.java</url>
           <line>19</line>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Behavioral/Observer/java/AccountService.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Behavioral/Observer/java/AccountService.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Behavioral/Observer/java/AccountService.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="14" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
