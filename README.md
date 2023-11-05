@@ -1,4 +1,5 @@
 # Design Pattern
+- Design pattern [DIRECTORY](DIRECTORY.md)
 - `Design pattern` giúp tăng cường tái sử dụng mã, giảm độ phức tạp, và tăng tính linh hoạt trong phát triển phần mềm.
 
 ## Sử dụng Design Pattern vì ?
