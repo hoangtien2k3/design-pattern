@@ -1,19 +1,23 @@
-# Design Pattern
+# Information pattern:
+- Link1 tham khảo: [https://sourcemaking.com/design_patterns](https://sourcemaking.com/design_patterns)
+- Link2 tham khảo: [https://tvd12.com/posts/object-pool-design-pattern](https://tvd12.com/posts/object-pool-design-pattern)
 - Design pattern [DIRECTORY](DIRECTORY.md)
-- `Design pattern` giúp tăng cường tái sử dụng mã, giảm độ phức tạp, và tăng tính linh hoạt trong phát triển phần mềm.
 
 ## Sử dụng Design Pattern vì ?
 - Tái sử dụng lại code và dễ mở rộng
+- `Design pattern` giúp tăng cường tái sử dụng mã, giảm độ phức tạp, và tăng tính linh hoạt trong phát triển phần mềm.
 - Là những giải pháp đã được tối ưu hóa và chúng ta có thể sử dụng tùy theo trường hợp mà không cần suy nghĩ.
 - Đồng thời tăng tốc độ phát triển và testing cho các nhà phát triển
 - Đương nhiên code sẽ trở nên dễ đọc và dễ hiểu kèm theo đó là dễ bảo trì nâng cấp về sau.
 - Tiết kiệm thời gian làm việc với code của các dev khác.
 
-## Phân loại Design Patterns
+## Phân loại Design Patterns:
 - Design Patterns có 23 mẫu được định nghĩa  bên trong và chia thành 3 nhóm.
   - `Creational Pattern`
   - `Structural Pattern`
   - `Behavioral Pattern`
+ 
+![Design-Pattern-gom-nhung-loai-nao](https://github.com/hoangtien2k3qx1/design-pattern/assets/122768076/287bc9f0-33cd-4fea-b45e-cef29a2f9868)
   
 ### 1. Creational Patterns (Nhóm khởi tạo)
 - Bao gồm 5 mẫu : [Factory Method](https://github.com/doctor-blue/design-patterns/tree/master/Creational/Factory-method), 
@@ -33,3 +37,5 @@
 [Iterator](), 
 [Mediator](), [Memento](), [Observer](), [State](), [Strategy]() và [Visitor]()
   - Cung cấp giải pháp để thực hiện các hành vi của đối tượng cũng như giữa các object với nhau.
+
+ 
