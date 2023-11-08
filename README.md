@@ -37,5 +37,17 @@
 [Iterator](), 
 [Mediator](), [Memento](), [Observer](), [State](), [Strategy]() và [Visitor]()
   - Cung cấp giải pháp để thực hiện các hành vi của đối tượng cũng như giữa các object với nhau.
+ 
+## Microservices Design Patterns:
+- [Aggregator]()
+- [API Gateway]()
+- [Chained or Chain of Responsibility]()
+- [Asynchronous Messaging]()
+- [Database or Shared Data]()
+- [Event Sourcing]()
+- [Branch]()
+- [Command Query Responsibility Segregator]()
+- [Circuit Breaker]()
+- [Decomposition]()
 
  
