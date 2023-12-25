@@ -9,6 +9,18 @@ public class CreateStudent {
                 .build();
 
         System.out.println(student);
+
+        System.out.println("_".repeat(100));
+
+        Student student1 = new StudentConcreteBuilder()
+                .setId(2)
+                .setName("Tiền Anh Hoáng")
+                .setAddress("Thanh Hoá")
+                .setDateOfBirth("12/04/2003")
+                .setPhoneNumber("0828007853")
+                .build();
+
+        System.out.println(student1);
         
     }
 }
